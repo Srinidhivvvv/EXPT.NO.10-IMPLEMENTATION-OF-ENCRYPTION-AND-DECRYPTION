@@ -1,3 +1,4 @@
+# DATE : 19/03/2026
 # EXPT.NO.10-IMPLEMENTATION-OF-ENCRYPTION-AND-DECRYPTION
 # AIM:
 To implement encryption and decryption using C program.
@@ -108,6 +109,7 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+![10](https://github.com/user-attachments/assets/255e93bf-25e6-462e-8d41-ee8656a1d6e2)
 
  
 
